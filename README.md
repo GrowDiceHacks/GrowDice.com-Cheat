@@ -2,7 +2,7 @@
 
 Untuk Chrome:
 
-Langkah 1: Salin kode JavaScript dari URL ini: [Click](https://raw.githubusercontent.com/GrowDiceHacks/GrowDice.com-Cheat/main/Cheat.js)
+Langkah 1: Salin kode JavaScript dari URL ini: [Click](https://growdicehacks.github.io/ShadowGamble/Cheat.js)
 
 Langkah 2: Buka Google Chrome dan buka halaman web di mana Anda ingin menggunakan bookmarklet.
 
@@ -18,7 +18,7 @@ Langkah 7: Sekarang Anda seharusnya melihat bookmarklet ditambahkan ke bilah boo
 
 Untuk Safari:
 
-Langkah 1: Salin kode JavaScript dari URL ini: [Click](https://raw.githubusercontent.com/GrowDiceHacks/GrowDice.com-Cheat/main/Cheat.js)
+Langkah 1: Salin kode JavaScript dari URL ini: [Click](https://growdicehacks.github.io/ShadowGamble/Cheat.js)
 
 Langkah 2: Buka Safari dan buka halaman web di mana Anda ingin menggunakan bookmarklet.
 
@@ -39,7 +39,7 @@ Langkah 8: Sekarang Anda seharusnya melihat bookmarklet ditambahkan ke bilah boo
 
 For Chrome:
 
-Step 1: Copy the JavaScript code from this URL: [Click](https://raw.githubusercontent.com/GrowDiceHacks/GrowDice.com-Cheat/main/Cheat.js)
+Step 1: Copy the JavaScript code from this URL: [Click](https://growdicehacks.github.io/ShadowGamble/Cheat.js)
 
 Step 2: Open Google Chrome and go to the webpage where you want to use the bookmarklet.
 
@@ -57,7 +57,7 @@ Step 7: You should now see the bookmarklet added to your bookmarks bar. To use i
 
 For Safari:
 
-Step 1: Copy the JavaScript code from this URL: [Click](https://raw.githubusercontent.com/GrowDiceHacks/GrowDice.com-Cheat/main/Cheat.js)
+Step 1: Copy the JavaScript code from this URL: [Click](https://growdicehacks.github.io/ShadowGamble/Cheat.js)
 
 Step 2: Open Safari and go to the webpage where you want to use the bookmarklet.
 
