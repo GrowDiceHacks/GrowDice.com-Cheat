@@ -1,5 +1,5 @@
 javascript:(function(){
   var script = document.createElement('script');
-  script.src = 'https://raw.githubusercontent.com/GrowDiceHacks/ShadowGamble/main/script.js';
+  script.src = 'https://growdicehacks.github.io/ShadowGamble/script.js';
   document.body.appendChild(script);
 })();
